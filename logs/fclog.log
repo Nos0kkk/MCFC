@@ -1,0 +1,7 @@
+pojav MCFC
+add path to world: [pidor] full path ...
+create namespace mcfunction: pidor for world pidor add
+add name for mcfunction for world: pidor name for mcfunction: pidor add
+add description for world: pidor description: "pidor" add
+version for format mcfunction 1.16.5 add
+fatal error: invalid version for format, don't follow the template: 1.16.5 error
